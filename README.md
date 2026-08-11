@@ -9,39 +9,39 @@
 ### 🛠️ Tech Stack
 
 **Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-7b2cbf?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-7b2cbf?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-7b2cbf?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7b2cbf?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-7b2cbf?style=for-the-badge&logo=c&logoColor=white)
 
 **Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-7b2cbf?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-7b2cbf?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-7b2cbf?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-7b2cbf?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-7b2cbf?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & Database**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![JSP/Servlets](https://img.shields.io/badge/JSP%2FServlets-007396?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-7b2cbf?style=for-the-badge&logo=node.js&logoColor=white)
+![JSP/Servlets](https://img.shields.io/badge/JSP%2FServlets-7b2cbf?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-7b2cbf?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7b2cbf?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-7b2cbf?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-7b2cbf?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-7b2cbf?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-7b2cbf?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
 ### 📜 AWS Certifications
-![AWS Cloud Foundations](https://img.shields.io/badge/AWS-Cloud_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Machine Learning Foundations](https://img.shields.io/badge/AWS-Machine_Learning_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS ML for NLP](https://img.shields.io/badge/AWS-ML_for_NLP-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Data Engineering Foundations](https://img.shields.io/badge/AWS-Data_Engineering_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Generative AI Foundations](https://img.shields.io/badge/AWS-Generative_AI_Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Cloud Foundations](https://img.shields.io/badge/AWS-Cloud_Foundations-7b2cbf?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Machine Learning Foundations](https://img.shields.io/badge/AWS-Machine_Learning_Foundations-7b2cbf?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS ML for NLP](https://img.shields.io/badge/AWS-ML_for_NLP-7b2cbf?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Data Engineering Foundations](https://img.shields.io/badge/AWS-Data_Engineering_Foundations-7b2cbf?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Generative AI Foundations](https://img.shields.io/badge/AWS-Generative_AI_Foundations-7b2cbf?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
@@ -59,17 +59,3 @@
 
 🔹 **[AI-Agriculture-Advisory](https://github.com/pm725/AI-Agriculture-Advisory)**  
 *AI-powered Advisory System for Agriculture*
-
----
-
-### 📈 GitHub Stats & Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=pm725&show_icons=true&theme=radical" alt="pm725 GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pm725&layout=compact&theme=radical" alt="pm725 top languages" />
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=pm725&theme=react-dark" alt="activity graph" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pm725&theme=dark" alt="streak" />
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=pm725.pm725" alt="visitor badge" />
