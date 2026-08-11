@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Priyanshu!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer;Java+%26+Python+Enthusiast;AWS+Certified+Cloud+Developer;Building+Real-World+Solutions" alt="typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=BSc+Computing+Student;Java+%26+Python+Enthusiast;Aspiring+Web+and+Software+Developer;Learning+and+Building+Projects" alt="typing animation"/>
 
 🎓 **BSc Computing Student** at London Metropolitan University (Islington College, Nepal)  
 
