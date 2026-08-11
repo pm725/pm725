@@ -50,8 +50,6 @@
 🔹 **[BigBallKnowledge](https://github.com/pm725/BigBallKnowledge)**  
 *Interactive Multi-Sport Quiz Platform (Java JSP/Servlets + MySQL)*
 
-🔹 **[Gym Management System](https://github.com/pm725/Gym-Management-System)**  
-*Java OOP project with GUI and file handling*
 
 🔹 **[Bank](https://github.com/pm725/Bank)**  
 *Banking System Project*
