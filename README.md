@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Priyanshu!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer;Java+%26+Python+Enthusiast;AWS+Certified+Cloud+Developer;Building+Real-World+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer;Java+%26+Python+Enthusiast;AWS+Certified+Cloud+Developer;Building+Real-World+Solutions" a[...]
 
 🎓 **BSc Computing Student** at London Metropolitan University (Islington College, Nepal)  
 
@@ -52,3 +52,12 @@
 
 🔹 **[Gym Management System](https://github.com/pm725/Gym-Management-System)**  
 *Java OOP project with GUI and file handling*
+
+🔹 **[Bank](https://github.com/pm725/Bank)**  
+*Banking System Project*
+
+🔹 **[InsurePro](https://github.com/pm725/InsurePro)**  
+*Insurance Management System*
+
+🔹 **[AI-Agriculture-Advisory](https://github.com/pm725/AI-Agriculture-Advisory)**  
+*AI-powered Advisory System for Agriculture*
