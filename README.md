@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Priyanshu!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer;Java+%26+Python+Enthusiast;AWS+Certified+Cloud+Developer;Building+Real-World+Solutions" a[...]
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-Stack+Developer;Java+%26+Python+Enthusiast;AWS+Certified+Cloud+Developer;Building+Real-World+Solutions" alt="typing animation"/>
 
 🎓 **BSc Computing Student** at London Metropolitan University (Islington College, Nepal)  
 
@@ -59,3 +59,17 @@
 
 🔹 **[AI-Agriculture-Advisory](https://github.com/pm725/AI-Agriculture-Advisory)**  
 *AI-powered Advisory System for Agriculture*
+
+---
+
+### 📈 GitHub Stats & Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=pm725&show_icons=true&theme=radical" alt="pm725 GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pm725&layout=compact&theme=radical" alt="pm725 top languages" />
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=pm725&theme=react-dark" alt="activity graph" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pm725&theme=dark" alt="streak" />
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=pm725.pm725" alt="visitor badge" />
